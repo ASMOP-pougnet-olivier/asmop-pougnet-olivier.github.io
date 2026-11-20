@@ -1,10 +1,18 @@
 {
   "items": [
     {
+      "image": "/photos/usinage-de-pieces-mecaniques-8356.jpg",
+      "titre": "Usinage de pièces mécaniques",
+      "description": "Acier, aluminium, inox, téflon et autres matériaux.",
+      "categorie": "Usinage",
+      "vedette": false
+    },
+    {
       "image": "/photos/salle-de-traite-82-places-8230.jpg",
       "titre": "Salle de traite 8×2 places",
       "description": "Traite simultanée de 16 vaches, aménagement sur mesure selon l’exploitation.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/salle-de-traite-1252.jpg",
@@ -24,7 +32,8 @@
       "image": "/photos/corral-ambulant-4526.jpg",
       "titre": "Corral ambulant",
       "description": "Conception modulable, robuste et facile à déplacer.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/nourrisseur-double-3-tonnes-8368.jpg",
@@ -37,151 +46,176 @@
       "image": "/photos/ratelier-nourrisseur-grande-capacite-6254.jpg",
       "titre": "Râtelier nourrisseur grande capacité",
       "description": "Fabriqué selon les besoins de l’exploitation.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/ratelier-nourrisseur-petite-capacite-6866.jpg",
       "titre": "Râtelier nourrisseur petite capacité",
       "description": "Compact et robuste.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/abri-mobile-avec-auvent-7806.jpg",
       "titre": "Abri mobile avec auvent",
       "description": "Auvent et barrières modulables, adaptables à l’espace disponible.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/abri-mobile-0444.jpg",
       "titre": "Abri mobile",
       "description": "Fabrication et installation pour différents usages agricoles.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/abri-pour-animaux-5960.jpg",
       "titre": "Abri pour animaux",
       "description": "Sur relevage ou sur roues.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/bac-a-eau-4820.jpg",
       "titre": "Bac à eau",
       "description": "En acier galvanisé.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/grilles-a-lisier-7026.jpg",
       "titre": "Grilles à lisier",
       "description": "Fabriquées à la demande.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/ratelier-a-foin-4580.jpg",
       "titre": "Râtelier à foin",
       "description": "Structure robuste et durable.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/nourrisseur-double-3-tonnes-8380.jpg",
       "titre": "Nourrisseur double 3 tonnes",
       "description": "Équipé de deux parcs hydrauliques, fabriqué selon les besoins de l’exploitation.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/abri-mobile-avec-auvent-7896.jpg",
       "titre": "Abri mobile avec auvent",
       "description": "Conception adaptable selon l’espace et les besoins de l’exploitation.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/salle-de-traite-1288.jpg",
       "titre": "Salle de traite",
       "description": "Installation conçue pour un flux de travail fluide, sécurisé et efficace.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/salle-de-traite-82-places-8272.jpg",
       "titre": "Salle de traite 8×2 places",
       "description": "Aménagement réalisé à la demande du client.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/ratelier-nourrisseur-grande-capacite-6602.jpg",
       "titre": "Râtelier nourrisseur grande capacité",
       "description": "Structure robuste, fabriquée sur mesure.",
-      "categorie": "Élevage"
+      "categorie": "Élevage",
+      "vedette": false
     },
     {
       "image": "/photos/carrossage-de-camion-betaillere-0858.jpg",
       "titre": "Carrossage de camion bétaillère",
       "description": "Fabrication et habillage sur mesure.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/camionnette-betaillere-1314.jpg",
       "titre": "Camionnette bétaillère",
       "description": "Aménagée pour le transport d’animaux.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/carrossage-de-camion-2264.jpg",
       "titre": "Carrossage de camion",
       "description": "Habillage adapté au véhicule et à l’usage.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/caisse-a-chiens-pour-pick-up-7796.jpg",
       "titre": "Caisse à chiens pour pick-up",
       "description": "Fabriquée sur mesure pour 4×4 pick-up.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/caisse-a-chiens-0780.jpg",
       "titre": "Caisse à chiens",
       "description": "Double compartiment, structure robuste.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/camionnette-betaillere-1344.jpg",
       "titre": "Camionnette bétaillère",
       "description": "Aménagée pour le transport d’animaux vivants.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/caisse-a-chiens-pour-pick-up-7940.jpg",
       "titre": "Caisse à chiens pour pick-up",
       "description": "Fabriquée sur mesure pour 4×4 pick-up.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/caisse-a-chiens-0894.jpg",
       "titre": "Caisse à chiens",
       "description": "Structure robuste, réalisée à la demande du client.",
-      "categorie": "Véhicules"
+      "categorie": "Véhicules",
+      "vedette": false
     },
     {
       "image": "/photos/tonne-a-eau-3622.jpg",
       "titre": "Tonne à eau",
       "description": "Citerne inox sur châssis.",
-      "categorie": "Citernes & remorques"
+      "categorie": "Citernes & remorques",
+      "vedette": false
     },
     {
       "image": "/photos/citerne-a-eau-sur-essieux-7902.jpg",
       "titre": "Citerne à eau sur essieux",
       "description": "Châssis adapté et fixation renforcée pour un transport stable.",
-      "categorie": "Citernes & remorques"
+      "categorie": "Citernes & remorques",
+      "vedette": false
     },
     {
       "image": "/photos/remorque-benne-en-inox-7356.jpg",
       "titre": "Remorque benne en inox",
       "description": "Résistante à la corrosion.",
-      "categorie": "Citernes & remorques"
+      "categorie": "Citernes & remorques",
+      "vedette": false
     },
     {
       "image": "/photos/balayeuse-thermique-en-inox-3108.jpg",
       "titre": "Balayeuse thermique en inox",
       "description": "Conçue pour les environnements exigeants.",
-      "categorie": "Citernes & remorques"
+      "categorie": "Citernes & remorques",
+      "vedette": false
     },
     {
       "image": "/photos/escalier-sur-mesure-8130.jpg",
@@ -194,19 +228,15 @@
       "image": "/photos/portail-4646.jpg",
       "titre": "Portail",
       "description": "Portails et garde-corps sur mesure.",
-      "categorie": "Serrurerie"
+      "categorie": "Serrurerie",
+      "vedette": false
     },
     {
       "image": "/photos/portail-ajoure-4802.jpg",
       "titre": "Portail ajouré",
       "description": "Dessin personnalisé selon le style souhaité.",
-      "categorie": "Serrurerie"
-    },
-    {
-      "image": "/photos/usinage-de-pieces-mecaniques-8356.jpg",
-      "titre": "Usinage de pièces mécaniques",
-      "description": "Acier, aluminium, inox, téflon et autres matériaux.",
-      "categorie": "Usinage"
+      "categorie": "Serrurerie",
+      "vedette": false
     }
   ]
 }
