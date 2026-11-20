@@ -1,0 +1,44 @@
+media:
+  input: photos
+  output: /photos
+  extensions: [jpg, jpeg, png, webp]
+content:
+  - name: realisations
+    label: Réalisations (photos de la galerie)
+    type: file
+    path: data/realisations.json
+    format: json
+    fields:
+      - name: items
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image, required: true }
+          - { name: titre, label: Titre, type: string, required: true }
+          - { name: description, label: Description, type: text }
+          - { name: categorie, label: "Catégorie (Élevage, Véhicules, Citernes & remorques, Serrurerie, Usinage… ou une nouvelle)", type: string }
+          - { name: vedette, label: "Afficher dans le diaporama de l’accueil", type: boolean }
+  - name: infos
+    label: Infos & contact
+    type: file
+    path: data/infos.json
+    format: json
+    fields:
+      - { name: telephone, label: Téléphone, type: string }
+      - { name: email, label: E-mail, type: string }
+      - { name: adresse, label: Adresse (rue), type: string }
+      - { name: code_postal, label: Code postal, type: string }
+      - { name: ville, label: Ville, type: string }
+      - { name: facebook, label: Lien de la page Facebook, type: string }
+      - name: recrutement
+        label: Offre d’emploi
+        type: object
+        fields:
+          - { name: afficher, label: Afficher l’offre d’emploi sur le site, type: boolean }
+          - { name: texte, label: Texte de présentation, type: text }
+          - { name: poste, label: Poste, type: string }
+          - { name: temps, label: Temps de travail, type: string }
+          - { name: contrat, label: Contrat, type: string }
+          - { name: remuneration, label: Rémunération, type: string }
+          - { name: lien, label: Lien du formulaire de candidature, type: string }
