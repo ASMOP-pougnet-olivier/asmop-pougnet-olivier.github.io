@@ -1,0 +1,17 @@
+{
+  "telephone": "06 70 12 08 20",
+  "email": "Olivier.pougnet@orange.fr",
+  "adresse": "5 rue du Lioran",
+  "code_postal": "15300",
+  "ville": "Valuéjols",
+  "facebook": "https://www.facebook.com/ASMOP.15300",
+  "recrutement": {
+    "afficher": true,
+    "texte": "Nous recherchons une personne motivée et sérieuse pour rejoindre notre équipe dans le domaine de la serrurerie, de la métallurgie, de la soudure et de l’usinage.",
+    "poste": "Serrurerie / Métallurgie / Soudure / Usinage",
+    "temps": "39 h par semaine",
+    "contrat": "CDD évolutif vers CDI",
+    "remuneration": "Selon l’expérience et les compétences",
+    "lien": "https://forms.gle/vzmmYTaYRgzL17LX7"
+  }
+}
